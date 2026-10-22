@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" src="assets/coding-cat.png" width="360" alt="一只正在电脑前写代码的猫咪" />
-
 ## I'm 汪义元
 
 - 😀 一名来自安徽的湖北人（网络安全爱好者）
